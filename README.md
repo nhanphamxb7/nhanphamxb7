@@ -3,6 +3,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+Engineering+Student;Interested+in+Embed+System+and+Automation&center=true&width=500&height=50"></a>
 </p>
 
+
+- ⚡ Junior student majoring in Electric and Electrical Engineering
+- 🏫 Ho Chi Minh City University of Technology
+
+
+
 ## 🧖 Contact me
 <a href="https://www.facebook.com/t.nhan.p.01">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100"/>
