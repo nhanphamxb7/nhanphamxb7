@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I am Nhan Pham <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="45"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+Engineering+Student;Interested+in+Embed+System+and+Automation&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronic+and+Electrical+Engineering+Student;Interested+in+Embed+System+and+Automation&center=true&width=500&height=50"></a>
 </p>
 
 
