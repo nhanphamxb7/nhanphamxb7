@@ -4,7 +4,7 @@
 </p>
 
 
-- ⚡ Junior student majoring in Electric and Electrical Engineering
+- ⚡ Junior student majoring in Electronic and Electrical Engineering
 - 🏫 Ho Chi Minh City University of Technology
 
 
